@@ -1,2 +1,5 @@
 /.deno/
 /.upm/
+/tangolet/.tangolet/
+/tangolet/*
+!/tangolet/README.md
